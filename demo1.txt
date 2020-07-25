@@ -1,0 +1,16 @@
+ ****                                                             
+A               R STUINFORF                 PFILE(STUINFO)        
+ ****                                                             
+A                 STUID                                           
+A                 STUNM                                           
+A                 STUFNM             I      SST(STUNM 1  10)      
+A                                           COLHDG('FIRST NAME')  
+A                 STULNM             I      SST(STUNM 11 15)      
+A                                           COLHDG('LAST NAME')   
+A                 STUGENDER                                       
+A                 STUDOB                                          
+ ****                                                             
+A               K STUID                                           
+A               K STUNM                                           
+ ****                                                             
+A               O STUGENDER                 COMP(NE 'F')          
