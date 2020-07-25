@@ -13,4 +13,4 @@ A                 STUDOB
 A               K STUID                                           
 A               K STUNM                                           
  ****                                                             
-A               O STUGENDER                 COMP(NE 'F')          
+A               O STUGENDER                 COMP(NE 'M')          
